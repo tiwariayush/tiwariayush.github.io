@@ -14,8 +14,8 @@ email: tiwari.ayush2412@gmail.com
 twitter: http://twitter.com/jharkhand_ee
 icon_url: /images/scribble5.png
 disqus_shortname: 
-worksurl: /works.html
-abouturl: /about.html
+worksurl: /works
+abouturl: /about
 
 # Color Options
 text_color: '#444444'
