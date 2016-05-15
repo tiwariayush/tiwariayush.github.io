@@ -4,12 +4,30 @@
  <title>Ayush Tiwari</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-02-24T18:56:26+05:30</updated>
+ <updated>2016-05-15T23:17:43+05:30</updated>
  <id></id>
  <author>
    <name>Ayush Tiwari</name>
  </author>
  
+ 
+ <entry>
+   <title>Graduation_2</title>
+   <link href="/posts/graduation_2"/>
+   <updated>2016-05-06T00:00:00+05:30</updated>
+   <id>/posts/graduation_2</id>
+   <content type="html">&lt;p&gt;Graduation photoshoot in front of college library.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Graduation photoshoot</title>
+   <link href="/posts/graduation"/>
+   <updated>2016-05-05T00:00:00+05:30</updated>
+   <id>/posts/graduation</id>
+   <content type="html">&lt;p&gt;Moving on to the next phase of life after college.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Le Gouffre</title>
