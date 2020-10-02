@@ -54,3 +54,5 @@ spotify_url:
 skype_url: 
 soundcloud_url: 
 behance_url: 
+
+theme: jekyll-theme-cayman
