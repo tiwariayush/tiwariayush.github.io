@@ -35,24 +35,23 @@ background: '#fcfcfc'
 post_background:
 
 # Footer
-footer_title: Baba, Ka Hal Chal !!
+footer_title:
 footer_description:
-social_links_title: Here am I
-github_url: http://github.com/tiwariayush
-flickr_url: 
-instagram_url: http://instagram.com/tiwaribaba
-vimeo_url: 
-facebook_url: http://facebook.com/ayushtiwari1993
-google_plus_url: 
-pinterest_url: 
-tumblr_url: 
-linkedin_url: http://in.linkedin.com/in/tiwariayush1
-dribbble_url: 
-lastfm_url: 
-rdio_url: 
-spotify_url: 
-skype_url: 
-soundcloud_url: 
-behance_url: 
+social_links_title:
+github_url: https://github.com/tiwariayush
+flickr_url:
+instagram_url: https://instagram.com/tiwaribaba
+vimeo_url:
+google_plus_url:
+pinterest_url:
+tumblr_url:
+linkedin_url: https://in.linkedin.com/in/tiwariayush1
+dribbble_url:
+lastfm_url:
+rdio_url:
+spotify_url:
+skype_url:
+soundcloud_url:
+behance_url:
 
 theme: jekyll-theme-slate
