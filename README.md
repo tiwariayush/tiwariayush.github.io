@@ -1,1 +1,3 @@
-# tiwariayush.github.io
+# Blog and portfolio
+
+https://tiwariayush.com
