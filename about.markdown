@@ -14,7 +14,7 @@ I live in Paris.
 
 What am I doing ?
 ----------------
-I'm a *Backend Engineer* at [Prose](https://prose.com).
+I'm a *Software Engineer* at [Prose](https://prose.com).
 
 Previously:
 - I was a *full stack developer* at [Bureauxlocaux](bureauxlocaux.com).
