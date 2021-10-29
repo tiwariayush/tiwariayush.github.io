@@ -22,8 +22,8 @@ Previously:
 - I worked as *Backend intern* for [Miranj](miranj.in).
 
 
-I graduated from [IIT Roorkee](https://www.iitr.ac.in/), it is one of top 7 IIT universitiesin India which are reputed for [top engineers in Silicon Valley](https://qz.com/india/262730/why-iits-produce-more-entrepreneurs-than-ivy-league-institutions-like-harvard-or-yale/) with a level equivalent to Ivy League universities.
+I graduated from [IIT Roorkee](https://www.iitr.ac.in/), it is one of top 7 IIT universities in India which are reputed for [top engineers in Silicon Valley](https://qz.com/india/262730/why-iits-produce-more-entrepreneurs-than-ivy-league-institutions-like-harvard-or-yale/) with a level equivalent to Ivy League universities.
 
-**I contribute to free software**, from Stripe to Facebook Busineess APIs.
+**I contribute to free software**, from Stripe to Facebook Business APIs.
 
 **Find me on [Github](https://github.com/tiwariayush)!**
